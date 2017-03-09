@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orion's Gauntlet.Plugins", "Orion's Gauntlet.Plugins.csproj", "{D1F0DE17-8CE6-8EE8-8746-2CA912E75024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orion's Gauntlet", "Orion's Gauntlet.csproj", "{C633C609-96A3-38BE-63E0-C00C2ED70E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orion's Gauntlet.Editor", "Orion's Gauntlet.Editor.csproj", "{DFF60BC5-C8B9-37A4-7711-854D0E864A73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F0DE17-8CE6-8EE8-8746-2CA912E75024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F0DE17-8CE6-8EE8-8746-2CA912E75024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F0DE17-8CE6-8EE8-8746-2CA912E75024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F0DE17-8CE6-8EE8-8746-2CA912E75024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C633C609-96A3-38BE-63E0-C00C2ED70E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C633C609-96A3-38BE-63E0-C00C2ED70E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C633C609-96A3-38BE-63E0-C00C2ED70E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C633C609-96A3-38BE-63E0-C00C2ED70E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF60BC5-C8B9-37A4-7711-854D0E864A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF60BC5-C8B9-37A4-7711-854D0E864A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF60BC5-C8B9-37A4-7711-854D0E864A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF60BC5-C8B9-37A4-7711-854D0E864A73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

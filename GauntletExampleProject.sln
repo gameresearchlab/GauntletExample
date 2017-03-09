@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GauntletExampleProject.Plugins", "GauntletExampleProject.Plugins.csproj", "{3AA778E0-B8D8-56D2-0EDE-2643DC04520E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GauntletExampleProject", "GauntletExampleProject.csproj", "{1902F9F9-656E-28A2-230E-7D8DF14456FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GauntletExampleProject.Editor", "GauntletExampleProject.Editor.csproj", "{569F34FC-173C-61F6-2E18-5ABB81F83240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AA778E0-B8D8-56D2-0EDE-2643DC04520E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA778E0-B8D8-56D2-0EDE-2643DC04520E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA778E0-B8D8-56D2-0EDE-2643DC04520E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA778E0-B8D8-56D2-0EDE-2643DC04520E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1902F9F9-656E-28A2-230E-7D8DF14456FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1902F9F9-656E-28A2-230E-7D8DF14456FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1902F9F9-656E-28A2-230E-7D8DF14456FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1902F9F9-656E-28A2-230E-7D8DF14456FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569F34FC-173C-61F6-2E18-5ABB81F83240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569F34FC-173C-61F6-2E18-5ABB81F83240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569F34FC-173C-61F6-2E18-5ABB81F83240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569F34FC-173C-61F6-2E18-5ABB81F83240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
